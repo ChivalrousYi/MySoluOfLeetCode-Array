@@ -1,0 +1,2 @@
+# MySoluOfLeetCode-Array
+LeetCode-array
